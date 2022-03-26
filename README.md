@@ -8,7 +8,7 @@ This repository contains reusable [Svelte](https://svelte.dev/) components that 
 
 The Spinner component can be used to implement a nice loading animation
 
-<img width="600px" src="./assets/Spinner.gif" />
+<img width="600px" src="https://raw.githubusercontent.com/Music-Bot-for-Jitsi/svelte-tailwind-widgets/main/assets/Spinner.gif" />
 
 ### Usage Example:
 
